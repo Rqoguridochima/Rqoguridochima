@@ -1,16 +1,14 @@
-## Hi there 👋
+## **Bem-Vindo Ao Meu Perfil** 🥇💙 
 
-<!--
-**Rqoguridochima/Rqoguridochima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*_Prazer Meu Nome É Raíque 👋_:*
 
-Here are some ideas to get you started:
+  - Estudante Do Ensino Medio;
+  - Estudante Na [Alura](https://alura.com.br);
+  - 18 Anos;
+  - Bahiano Em SP;
+  - Aprendendo JavaScript, HTML e CSS;
+  - Sei Um Pouco De Python3;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Compartilhando alguns projetos com vocês 😄_
+
+_Instagram : raiquesouza_
