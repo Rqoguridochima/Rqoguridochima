@@ -2,8 +2,7 @@
 
 *_Prazer Meu Nome É Raíque 👋_:*
 
-  - Estudante Do Ensino Medio;
-  - Estudante Na [Alura](https://alura.com.br);
+  - Estudante Do Ensino Medio e Aluno Na [Alura](https://alura.com.br);
   - 18 Anos;
   - Bahiano Em SP;
   - Programador Iniciante;
