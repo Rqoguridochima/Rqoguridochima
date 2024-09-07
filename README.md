@@ -19,5 +19,6 @@
   <a href="https://www.linkedin.com/in/raiquedesouza/" target="_blank"><img align="center" alt="Raíque-linked-in" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg""></a> 
   <h2></h2>
 </div>
-  
- ![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif" alt="animated" />
+</p>
