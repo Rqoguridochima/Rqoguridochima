@@ -6,12 +6,17 @@
   - Estudante Na [Alura](https://alura.com.br);
   - 18 Anos;
   - Bahiano Em SP;
-  - Aprendendo JavaScript, HTML e CSS;
-  - Sei Um Pouco De Python3;
+  - Programador Iniciante;
   - Jogo Volêi 🏐;
 
-_Compartilhando alguns projetos com vocês 😄_
+<div style="display: inline_block"><br>
+  <img align="center" alt="Raíque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raíque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raíque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raíque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://www.linkedin.com/in/raiquedesouza/" target="_blank"><img align="center" alt="Raíque-linked-in" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg""></a> 
+</div>
 
-_Instagram : raiquesouza_
- 
+  _Compartilhando alguns projetos com vocês 😄_
+  
  ![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
